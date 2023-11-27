@@ -1,0 +1,44 @@
+[
+  {
+    "board_name": "world_champions",
+    "label": "🌎 World Champions",
+    "columns": [
+      {
+        "key": "player_name",
+        "header": "Name"
+      },
+      {
+        "key": "xp",
+        "header": "XP"
+      }
+    ]
+  },
+  {
+    "board_name": "top_monthly",
+    "label": "🗓️ Top 25 Monthly",
+    "columns": [
+      {
+        "key": "player_name",
+        "header": "Name"
+      },
+      {
+        "key": "kills",
+        "header": "Kills"
+      }
+    ]
+  },
+  {
+    "board_name": "most_kills",
+    "label": "💀 Most Kills",
+    "columns": [
+      {
+        "key": "player_name",
+        "header": "Name"
+      },
+      {
+        "key": "kills",
+        "header": "Kills"
+      }
+    ]
+  }
+]

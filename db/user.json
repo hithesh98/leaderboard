@@ -1,0 +1,50 @@
+[
+  {
+    "player_name": "Richie",
+    "xp": 10030,
+    "kills": 12,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  },
+  {
+    "player_name": "Emmett",
+    "xp": 10012,
+    "kills": 11,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  },
+  {
+    "player_name": "Adam",
+    "xp": 9030,
+    "kills": 10,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  },
+  {
+    "player_name": "Evan",
+    "xp": 8030,
+    "kills": 9,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  },
+  {
+    "player_name": "Harry",
+    "xp": 6030,
+    "kills": 7,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  },
+  {
+    "player_name": "Hithesh",
+    "xp": 4040,
+    "kills": 3,
+    "time_played": 1034,
+    "deaths": 23,
+    "lap_time": 340
+  }
+]
